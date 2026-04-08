@@ -59,5 +59,10 @@ Para iniciar el análisis, ejecute el script principal desde la terminal:
     python main.py
 Finalización del proceso: Presione la tecla Q para liberar los recursos de la cámara y cerrar las ventanas de procesamiento de forma segura.
 
+## Imagen Demostración Código
+
+<img width="1920" height="1080" alt="demo_mano" src="https://github.com/user-attachments/assets/78970702-84a4-4caa-a1f0-c5dbab83c5c0" />
+
+
 ## Consideraciones Legales y Técnicas
 Este software ha sido diseñado con fines de investigación y aprendizaje técnico. Las estimaciones de género se basan en medias estadísticas de antropometría y no constituyen un método de identificación fehaciente. La precisión de las mediciones en píxeles depende de la distancia del sujeto respecto a la lente y de la distorsión óptica de la misma.
