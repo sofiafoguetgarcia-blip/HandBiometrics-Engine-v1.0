@@ -77,3 +77,8 @@ Todas las medidas se muestran en píxeles.
 - exportar medidas a CSV,
 - mejorar la heurística,
 - reemplazar la edad orientativa por clasificación de tamaño de mano.
+
+## Imagen demostración
+
+<img width="1920" height="1080" alt="demo_mano" src="https://github.com/user-attachments/assets/27905098-e523-4519-bdfb-fd93ee245df6" />
+
